@@ -1,4 +1,4 @@
-# HAPPY NEW YEAR
+<h1 dir="rtl">سال نو مبارک</h1>
 
 ![The circuit on a breadboard](breadboard.webp)
 
@@ -10,6 +10,8 @@
 
 <h2 dir="rtl" style="direction: rtl;">کد</h2>
 <p dir="rtl" style="direction: rtl;">رقم های سون سگمنت به ترتیب هرکدام با حرف مربوط به خود با سرعت بسیار بالا روشن می‌شوند به طوری که چشم انسان تمامی ارقام را همزمان روشن می‌بیند. به این تکنیک «مولتیپلکسینگ» گفته می‌شود.</p>
+
+# HAPPY NEW YEAR
 
 This repo is for a little [Arduino](https://adruino.cc) project to congratulate the new Persian year on behalf of [CACTB](https://t.me/cactb). 
 
